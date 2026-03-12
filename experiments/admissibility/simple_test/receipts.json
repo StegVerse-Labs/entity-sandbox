@@ -1,0 +1,92 @@
+[
+  {
+    "prev_receipt_hash": "",
+    "timestamp": 1773283436.90616,
+    "proposal": {
+      "delta_a": 0.1
+    },
+    "evaluation": {
+      "viability": 0.5711829829397932,
+      "admissible": true
+    },
+    "state": {
+      "g": 0.75,
+      "c": 0.5,
+      "a": 0.4,
+      "t": 0.87
+    },
+    "receipt_hash": "cf197ad90a4d777213e83e53afc3a829e66ce4d1032318fa192a36ad0a554c70"
+  },
+  {
+    "prev_receipt_hash": "cf197ad90a4d777213e83e53afc3a829e66ce4d1032318fa192a36ad0a554c70",
+    "timestamp": 1773283436.9063191,
+    "proposal": {
+      "delta_a": 0.1
+    },
+    "evaluation": {
+      "viability": 0.5422176684690384,
+      "admissible": true
+    },
+    "state": {
+      "g": 0.7,
+      "c": 0.5,
+      "a": 0.5,
+      "t": 0.84
+    },
+    "receipt_hash": "367914f16d9ca6683d4feaae3eaadb20b6329358399eca7e8175d7de835337b5"
+  },
+  {
+    "prev_receipt_hash": "367914f16d9ca6683d4feaae3eaadb20b6329358399eca7e8175d7de835337b5",
+    "timestamp": 1773283436.9063509,
+    "proposal": {
+      "delta_a": 0.1
+    },
+    "evaluation": {
+      "viability": 0.5130789412946122,
+      "admissible": false
+    },
+    "state": {
+      "g": 0.6499999999999999,
+      "c": 0.5,
+      "a": 0.6,
+      "t": 0.8099999999999999
+    },
+    "receipt_hash": "55efebec953cedcf3b64815d1ebecc64d3003e4778c1bf6f2556c862db739246"
+  },
+  {
+    "prev_receipt_hash": "55efebec953cedcf3b64815d1ebecc64d3003e4778c1bf6f2556c862db739246",
+    "timestamp": 1773283436.906385,
+    "proposal": {
+      "delta_a": 0.1
+    },
+    "evaluation": {
+      "viability": 0.5130789412946122,
+      "admissible": false
+    },
+    "state": {
+      "g": 0.6499999999999999,
+      "c": 0.5,
+      "a": 0.6,
+      "t": 0.8099999999999999
+    },
+    "receipt_hash": "c6be82722f3261b9b9e2e6b8466597a9db0a7921765bb94c4c42db6161abc274"
+  },
+  {
+    "prev_receipt_hash": "c6be82722f3261b9b9e2e6b8466597a9db0a7921765bb94c4c42db6161abc274",
+    "timestamp": 1773283436.9064124,
+    "proposal": {
+      "delta_a": 0.1
+    },
+    "evaluation": {
+      "viability": 0.5130789412946122,
+      "admissible": false
+    },
+    "state": {
+      "g": 0.6499999999999999,
+      "c": 0.5,
+      "a": 0.6,
+      "t": 0.8099999999999999
+    },
+    "receipt_hash": "ee1da7497dafd30a5fe2ae1b2c420db16ddb3765de81a6a1248e7c8c2158748b"
+  }
+]
