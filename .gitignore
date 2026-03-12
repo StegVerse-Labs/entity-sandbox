@@ -1,0 +1,36 @@
+# Bytecode & caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env/
+venv/
+.venv/
+env/
+
+# OS & editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs, coverage & temporary data
+*.log
+.coverage
+coverage/
+reports/generated/
+out/
+tmp/
+receipts/examples/generated/
+
+# Secret files & private configs
+*.secret
+*.env
+config/private/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Node modules (if any JS tooling is used)
+node_modules/
